@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my profile! 👋
 
 <!--
 **cameron-gams/cameron-gams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, my name is Cameron. I'm currently a junior at [[https://www.wku.edu/academy/|The Gatton Academy of Mathematics and Science in Kentucky]]!
+(by extension, this also makes me a freshman at [[wku.edu|Western Kentucky University]])
+
+- I'm currently learning CUDA
+- I'm working with Dr. Ivan Novikov in the [[https://www.wku.edu/physics/|WKU Department of Physics & Astronomy]]
+- My pronouns are he/him/his (but I'm fine with any)
+- Reach me by email at [[mailto:cameron.wood866@topper.wku.edu|cameron.wood866@topper.wku.edu]]
