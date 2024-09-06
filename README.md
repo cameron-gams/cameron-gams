@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, my name is Cameron. I'm currently a junior at [The Gatton Academy of Mathematics and Science in Kentucky](wku.edu/academy)!
-(by extension, this also makes me a freshman at [wku.edu](Western Kentucky University))
+(by extension, this also makes me a freshman at [Western Kentucky University](wku.edu))
 
 - I'm currently learning CUDA
-- I'm working with Dr. Ivan Novikov in the WKU Department of Physics & Astronomy
+- I'm working with Dr. Ivan Novikov in the [WKU Department of Physics & Astronomy](wku.edu/physics)
 - My pronouns are he/him/his (but I'm fine with any)
-- Reach me by email at [mailto:cameron.wood866@topper.wku.edu](cameron.wood866@topper.wku.edu)
+- Reach me by email at [cameron.wood866@topper.wku.edu](mailto:cameron.wood866@topper.wku.edu)
