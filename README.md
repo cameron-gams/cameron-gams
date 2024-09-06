@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, my name is Cameron. I'm currently a junior at The Gatton Academy of Mathematics and Science in Kentucky! (wku.edu/academy)
-(by extension, this also makes me a freshman at Western Kentucky University (wku.edu))
+### Hi, my name is Cameron!
+#### I'm currently a junior at The Gatton Academy of Mathematics and Science in Kentucky. (wku.edu/academy)
+##### (by extension, this also makes me a freshman at Western Kentucky University (wku.edu))
 
 - I'm currently learning CUDA
 - I'm working with Dr. Ivan Novikov in the WKU Department of Physics & Astronomy
