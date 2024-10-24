@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 ##### (by extension, this also makes me a freshman at Western Kentucky University (see wku.edu))
 
 - My pronouns are he/him/his (but I'm fine with any)
-- Reach me by email at [cameron.wood866@topper.wku.edu](mailto:cameron.wood866@topper.wku.edu)
-- - or on Discord at wood6078
+- Reach me by email at [cameron.wood866@topper.wku.edu](mailto:cameron.wood866@topper.wku.edu) or on Discord at wood6078
