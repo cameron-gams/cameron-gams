@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, my name is Cameron!
-#### I'm currently a junior at The Carol Martin Gatton Academy of Mathematics and Science in Kentucky. (wku.edu/academy)
+#### I'm currently a junior at The Gatton Academy of Mathematics and Science in Kentucky. (wku.edu/academy)
 ##### by extension, this also makes me a freshman at Western Kentucky University (wku.edu)
 
 - My pronouns are he/him/his (but I'm fine with any)
