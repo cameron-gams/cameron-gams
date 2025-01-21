@@ -21,3 +21,4 @@ by extension, this also makes me a freshman at Western Kentucky University (wku.
 
 - My pronouns are he/him/his (but I'm fine with any)
 - Reach me by email at cameron.wood866 (@) topper.wku.edu or on Discord at wood6078
+- not super great at programming. I have taken CS180 - Computer Science I and have a decent understanding of Java.
